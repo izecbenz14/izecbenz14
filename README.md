@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" alt="jinwoo" width="100%"/>
+  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" alt="jinwoo" width="40%"/>
 </div>
 
 <div align="center">
