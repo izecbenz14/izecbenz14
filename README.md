@@ -1,8 +1,10 @@
-<div align="center">
+
+
+# IzecBenz
+
+<div align="right">
   <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" alt="jinwoo" width="40%"/>
 </div>
-
-<div align="center">
 
 ## 🌱 I’m Currently Learning
 
@@ -13,5 +15,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
 
-</div>
 
