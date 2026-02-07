@@ -2,8 +2,9 @@
 
 # IzecBenz
 
-<div align="right">
-  <img src="https://media1.tenor.com/m/cmGCMoAyI_cAAAAd/solo-leveling-solo-leveling-season-2.gif" alt="jinwoo" width="40%"/>
+<div align="letf">
+  <img src="https://media.tenor.com/XU2m9nBp5U4AAAAi/marija-nun.gif" alt="anime" width="40%"/>
+  <!--<img src="https://media1.tenor.com/m/zqmFb8jX3uAAAAAC/solar-system-earth.gif" alt="earth" width="50%"/>-->
 </div>
 
 ## 🌱 I’m Currently Learning
