@@ -4,7 +4,7 @@
 
 <div align="letf">
   <img src="https://media.tenor.com/XU2m9nBp5U4AAAAi/marija-nun.gif" alt="anime" width="40%"/>
-  <!--<img src="https://media1.tenor.com/m/zqmFb8jX3uAAAAAC/solar-system-earth.gif" alt="earth" width="50%"/>-->
+  <img src="https://media1.tenor.com/m/pOHv368045cAAAAd/cute-anime-girl.gif" alt="girl" width="50%"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=izecbenz1&color=ff69b4&style=plastic)
